@@ -9,6 +9,7 @@ numpy = "*"
 pandas = "*"
 scipy = "*"
 seaborn = "*"
+statsmodels = "*"
 
 [dev-packages]
 
