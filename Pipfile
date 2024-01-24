@@ -10,6 +10,7 @@ pandas = "*"
 scipy = "*"
 seaborn = "*"
 statsmodels = "*"
+pyarrow = "*"
 
 [dev-packages]
 
